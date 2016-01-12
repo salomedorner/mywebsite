@@ -1,0 +1,71 @@
+body {
+  font-family: Helvetica;
+  background-color: lightgrey;
+}
+
+
+.wrapper {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.image {
+  width: 200px;
+  float: right;
+}
+
+.alle strong {
+  display: inline-block;
+  width: 220px;
+}
+
+
+h1 {
+  font-family: Helvetica, sans-serif;
+  font-size: 40px;
+  border-bottom: 1px solid black;
+}
+
+.meinlebenslauf {
+  margin-bottom: 50px;
+}
+
+.zur-person {
+  margin-bottom: 50px;
+}
+
+.schulbildung {
+  margin-bottom: 50px;
+}
+
+.auslandserfahrungen {
+  margin-bottom: 50px;
+}
+
+.sprachen {
+  margin-bottom: 50px;
+}
+
+.row {
+  display: inline-block;
+}
+
+.box {
+  width: 600px
+}
+
+.right {
+  float: left;
+  width: 160px;
+}
+
+.left {
+  float: right;
+  width: 160px;
+}
+
+.left {
+  float: right;
+  width: 160px;
+}
