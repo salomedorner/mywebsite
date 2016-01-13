@@ -2,45 +2,26 @@ body {
   font-family: Georgia;
 }
 
-
-.wrapper {
-  width: 800px;
-  margin-left: auto;
-  margin-right: auto;
+.nav {
+  list-style: none;
+  text-align: center;
+  font-size: 22px;
+  padding-left: 0px;
 }
 
-.image {
-  width: 200px;
-  float: right;
-  }
+.nav li {
+  display: inline;
+}
 
+li {
+  margin-left: 70px;
+  margin-right: 70px;
+  font-family: 'Poiret One', cursive;
+}
 
 
 h1 {
-  font-family: Helvetica, sans-serif;
-  font-size: 40px;
-  border-bottom: 1px solid black;
-}
-
-.row {
-  display: inline-block;
-}
-
-.box {
-  width: 600px
-}
-
-.right {
-  float: left;
-  width: 160px;
-}
-
-.left {
-  float: right;
-  width: 160px;
-}
-
-.left {
-  float: right;
-  width: 160px;
+ font-family: 'Poiret One', sans-serif;
+ text-align: center;
+ font-size: 50px;
 }
