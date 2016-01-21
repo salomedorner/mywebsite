@@ -1,11 +1,12 @@
 body {
-  font-family: 'Josefin Slab', cursive;
+  font-family: 'Josefin Slab', serif;
   width: 1000px;
   margin: 0 auto;
   text-align: center;
 }
 
 .nav {
+  padding-top: 10px;
   list-style: none;
   font-family: 'Josefin Slab', serif;
   text-align: center;
@@ -76,8 +77,16 @@ h1 {
 .clear {
   float: none;
 }
+.zitatstefansagmeister {
+  width: 450px;
+  float: right;
+  font-family: 'Josefin Slab', serif;
+  font-size: 20px;
+  text-align: left;
+}
 
 .contacttext {
+  padding-top: 15px;
   text-align: left;
   font-family: 'Josefin Slab', serif;
   font-size: 20px;
@@ -95,16 +104,19 @@ h1 {
   font-family: 'Josefin Slab', cursive;
   text-align: left;
   color: black;
+  padding-top: 10px;
 }
 
 .block {
   display: block;
+  padding-top: 10px;
 }
 
 input[type=submit] {
     font-family: 'Josefin Slab', cursive;
     font-size: 15px;
     padding:5px 15px;
+    padding-top: 10px;
     background:lightgrey;
     border:0 none;
     cursor:pointer;
@@ -118,12 +130,4 @@ input[type=submit]:hover {
 
 input[type=submit]:active {
     background:darkgrey;
-}
-
-.zitatstefansagmeister {
-  width: 450px;
-  float: right;
-  font-family: 'Josefin Slab', serif;
-  font-size: 20px;
-  text-align: right;
 }
