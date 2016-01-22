@@ -167,6 +167,6 @@ test
 }
 
 .portfolioimages img {
-  float: left;
+  float: inherit;
   height: 300px;
 }
